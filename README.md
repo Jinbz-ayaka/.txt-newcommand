@@ -216,4 +216,4 @@ import chardet
 
 本项目代码完全来自 deepseek, 本上传人完全不会使用任何 python 语言.
 
-事实上, readme.txt 大部分也由 deepseek 生成, 不同点在于本上传人部分知道如何使用 .txt 文件.
+事实上, readme.md 大部分也由 deepseek 生成, 不同点在于本上传人部分知道如何使用 .md 文件, especially 与 markdown 语言无关的部分.
